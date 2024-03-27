@@ -1,0 +1,11 @@
+ThisThis is my personal Tableau dashboard project analysing the players of Bundesliga.
+I have used the bundesliga_player.csv file for this project which I opted from Kaggle.com
+The dahsboard can be used to analyse the trends in Bundesliga Players especially to look at,
+1. Number of Players from each country that participated in the league
+2. Most famous Player Agents
+3. Contract details of Players by Club
+4. Age distribution of Players by Club
+5. Trends in Investment on Players by each club
+6. Distribution of Players by Positions by each club.
+
+All these trends can be observed according to the desired club by using the interactive filter of Club name, Year in which the contract expires and No.of Players in the dashboard.
