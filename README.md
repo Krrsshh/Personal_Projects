@@ -74,3 +74,5 @@ Further, I noticed an imbalance in the classes (more unpopular books than popula
 
 
 You can find the link of my work here : https://www.datacamp.com/datalab/w/d14c1935-e178-4d11-a07e-ababec24fdbd
+
+<img width="723" alt="Screenshot 2024-09-25 at 12 31 32 PM" src="https://github.com/user-attachments/assets/3295e753-7735-4f94-ac52-a88b968fbf0d">
