@@ -59,8 +59,25 @@ This is a snippet of how the dashboard looks. Further the dashboard can be found
 
 END!
 
+## **4. Sales Analysis Report - using Power BI**
 
-## **4. Predicting book popularity - A datacamp competition**
+This is my personal PowerBI report project analysing the sales data of a Electronic company for the FY2020 -21 .
+The report can be used to analyse the trends in gadget sales across different regions. Especially to look at,
+1. Most popular categories
+2. Activity of customers across year 2020-21
+3. Discount amounts across categories
+4. Customer Distribution by Region
+5. Revenue by Region
+6. Finally, we use Power Q&A. Power Q&A uses natural language processing (NLP) to interpret questions asked in plain language and provides relevant data visualizations or insights in response.
+
+You can directly find the link of the report here : https://app.powerbi.com/groups/me/reports/a930b535-edf3-4001-87ac-86593e0f6ce4/ReportSection?experience=power-bi
+
+<img width="1465" alt="Screenshot 2024-09-25 at 12 47 41 PM" src="https://github.com/user-attachments/assets/13812057-3528-43c1-804f-58d3c8e559f0">
+
+END!
+
+
+## **5. Predicting book popularity - A datacamp competition**
 
 This is my project workbook created as a part of datacamp competiton that I participated in. 
 
