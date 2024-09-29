@@ -1,4 +1,4 @@
-# Data Visualization Projects
+# Data Visualization & ML Projects
 
 In this repository, I upload all my data visualization projects
 
